@@ -1,0 +1,25 @@
+h1{
+    font-size: 100px;
+    text-align: center;
+    margin-left: 500;
+}
+
+.playlist_1{
+    border-radius: 50px 50px 50px;
+    margin-left: 250px;
+    margin-top: 55px;
+}
+
+div{
+    display:flex;
+    margin-left: 620px;
+}
+
+button{
+    color: white;
+    outline-color: white;
+}
+
+body{
+    background-image: linear-gradient(rgb(111, 00, 255),rgb(111, 00, 255));
+}
